@@ -1,0 +1,6 @@
+06/06
+  Aprendemos os conceito de UX, e fomos em alguns sites que dão API gratuitos e colocamos no Postman. Baixado projeto modelo para usar a biblioteca OpenAPI e Swagger para
+documentação automática.
+
+13/06
+  Hoje nós fizemos algumas atualizações no programa do UX ganhamos muitos tickets de vale refeição e anotamos tudo que fizemos nas aulas passadas.
