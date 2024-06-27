@@ -1,0 +1,12 @@
+18/04
+  Começamos com um assunto novo chamado lógica de programação que foi um projeto em Java que foi feito um
+jogo da advinhação.
+
+16/05
+  Continuando o assusto de lógica de programação, criamos mais uma versão do jogo da advinhação. Ultilizamos o (If..else)
+para fazer uma estrutura. No jogo, o jogador colocava um número e o jogo informava se ele acertou ou não.
+
+23/05
+  Continuando o assunto da aula, fizmos um update no jogo da lógica de programação, vimos que o jogo era muito limitado,
+então decidimos colocar um sistema que o jogador possa jogar mais de uma vez e para isso foi ultilizado o laço For.
+Baixado o projeto para a Situação de Aprendizagem ultilizando o Spring Initializr.

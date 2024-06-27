@@ -1,0 +1,19 @@
+04/04
+  Começamos com o Supervisor Sandro uma aula de interação no kahoot e depois demos uma volta por todo o
+Senai e depois tiramos a foto da turma e depois quebramos a cabeça com um exercicio lógico do Prof. Savio.
+
+11/04
+  Começamos o dia com Prof. Savio e fizemos nossa conta no github e depois fomos ao git bash fazer um 
+repositório remoto um dos comando são:
+
+git init - manda os arquivos para o staging area
+git commit -m "Nome do commit"
+git branch -M main - transfora no main
+git remote add origin link - linka os arquivos com o github
+git push -u origin main - empurra os arquivos ao github
+git clone - clona os arquivos
+
+
+
+
+

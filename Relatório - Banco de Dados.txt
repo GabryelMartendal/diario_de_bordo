@@ -1,0 +1,14 @@
+25/04
+  Prof. Savio nos deu alguns conceitos do que é um banco de dandos como um modelo,
+entidade e relacionamento, ele é um lugar onde você consegue guardar dados a partir de
+um servidor, o servidor ultilizado foi o MySQL.
+
+02/05
+  A gente fez uma continuação do banco de dados revisando os conceitos de um banco de
+dados ultilizando a linguagem SQL, criamos um banco de dados para as meninas tech
+fazerem um site em front end de eventos de Blumenau.
+
+09/05
+  Ultilizamos engenharia direta do mySQL para fazer um script pronto feito pelo
+workbanch e inserimos algumas informações usando o comando insert, o comando select é
+ultilizado para ver informações.
