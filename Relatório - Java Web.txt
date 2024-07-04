@@ -15,3 +15,7 @@ Dia 20/06
 Dia 27/06
 
  Fizemos uma prova no studio code ultilizando a linguagem do scratch, após terminarmos a prova, fomos ao scratch executar nossos ensinamentos.
+
+Dia 04/07
+
+  Usamos o Scratch para fazer um jogo do Space Invaders, criamos npcs e bosses.
