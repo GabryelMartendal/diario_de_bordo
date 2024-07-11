@@ -19,3 +19,7 @@ Dia 27/06
 Dia 04/07
 
   Usamos o Scratch para fazer um jogo do Space Invaders, criamos npcs e bosses.
+
+Dia 11/07
+
+  Terminamos o jogo do Space Invaders adicionando movimento aos bixos e ataque deles.
