@@ -23,3 +23,7 @@ Dia 04/07
 Dia 11/07
 
   Terminamos o jogo do Space Invaders adicionando movimento aos bixos e ataque deles.
+
+Dia 01/08
+
+  Hoje nos voltamos ao projeto do banco de dados retomando o java web no intellij, adicionamos controllers e Repositorios.
