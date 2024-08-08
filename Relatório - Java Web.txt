@@ -27,3 +27,7 @@ Dia 11/07
 Dia 01/08
 
   Hoje nos voltamos ao projeto do banco de dados retomando o java web no intellij, adicionamos controllers e Repositorios.
+
+Dia 08/08
+
+ Usamos o Postman + Intelij para continuar o nosso projeto do Banco de Dados, vistamos a sala do B1 do Senai para vermos o projeto do braço robótico nas industrias.
