@@ -26,17 +26,21 @@ Dia 11/07
 
 Dia 01/08
 
-  Hoje nos voltamos ao projeto do banco de dados retomando o java web no intellij, adicionamos controllers e Repositorios.
+  Hoje nos voltamos ao projeto a API retomando o java web no intellij, adicionamos controllers e Repositorios.
 
 Dia 08/08
 
- Usamos o Postman + Intelij para continuar o nosso projeto do Banco de Dados, vistamos a sala do B1 do Senai para vermos o projeto do braço robótico nas industrias, visita no MundoSENAI.
+ Usamos o Postman + Intelij para continuar o nosso projeto da API, vistamos a sala do B1 do Senai para vermos o projeto do braço robótico nas industrias, visita no MundoSENAI.
 
  Dia 15/08
 
- Continuamos o projeto od banco de dados, adicionando todas as classes, repositorios e controllers, das entidades:
+ Continuamos o projeto da API, adicionando todas as classes, repositorios e controllers, das entidades:
 Cliente;
 Usuario;
 Midia;
 Ingresso;
 Fornecedor.
+
+ Dia 22/08
+
+Continuando o Projeto da API, corrigimos todos os bugs
