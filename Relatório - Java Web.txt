@@ -43,4 +43,4 @@ Fornecedor.
 
  Dia 22/08
 
-Continuando o Projeto da API, corrigimos todos os bugs, put's não funcionam, iniciamos o projeto para a apresentação com slides.
+Continuando o Projeto da API, corrigimos todos os bugs, put's não funcionam, iniciamos o projeto para a apresentação com slides, com o tema lógica de programacão.
