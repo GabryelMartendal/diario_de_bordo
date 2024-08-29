@@ -10,3 +10,7 @@ para fazer uma estrutura. No jogo, o jogador colocava um número e o jogo inform
   Continuando o assunto da aula, fizmos um update no jogo da lógica de programação, vimos que o jogo era muito limitado,
 então decidimos colocar um sistema que o jogador possa jogar mais de uma vez e para isso foi ultilizado o laço For.
 Baixado o projeto para a Situação de Aprendizagem ultilizando o Spring Initializr.
+
+29/08
+
+  Penúltima aula do curso, terminamos os Slides referente à Lógica de Programação, adicionando ao slides if/else, for e while, Scratch e o Minecraft.
